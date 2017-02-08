@@ -79,8 +79,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'juvifra86$EventMate',
         'USER': 'juvifra86',
-        'PASSWORD': 'kolobos',
-        'HOST': 'Misql',
+        'PASSWORD': 'kolobos30',
+        'HOST': 'juvifra86.mysql.pythonanywhere-services.com',
     }
 }
 
